@@ -1,0 +1,11 @@
+question,answer,question_type
+"Namazda ""Sübhanellah"" demek veya okumayı sesli olarak yapmak namazı bozar mı?","Hayır, namazı bozmaz.",Factual
+"Namazda şeytani bir vesvese nedeniyle ""Lâ havle ve la kuvvete illâ billah"" demek namazı ne zaman bozar, ne zaman bozmaz?","Vesvese ahiretle ilgiliyse namaz bozulmaz, dünya ile ilgiliyse bozulur.",Conditional
+Öğle namazı kılarken ikindi vaktinin girmesi namazı bozar mı?,"Hayır, öğle namazı kılarken ikindi vaktinin girmesi namazı bozmaz.",Factual
+Teyemmüm abdestiyle kılınan namazı ne bozar?,Teyemmüm abdestiyle namaz kılarken kişinin su bulması namazı bozar.,Factual
+Namazın kılınışının ilmihaldeki adı nedir ve bu ad ne anlama gelir?,"Namazın farz ve vaciplerine, sünnet ve âdâbına uygun şekilde kılınışına ilmihal dilinde ""sıfatü's-salat"" denir. Bu terim, namazın nasıl kılındığının detaylı açıklamasını ifade eder.",Factual
+İkinci rekatta birinci rekata göre hangi farklılıklar vardır?,"İkinci rekâtta elleri kaldırma, ""Sübhaneke"" ve ""Eûzu"" yoktur.  Ayağa kalkınca el bağlayıp besmele ile Fatihayı okur ve ""amin"" dedikten sonra Fatihaya bir sûre veya birkaç ayet ekler.  Rükû ve secdeler ise birinci rekâttaki gibi yapılır.",Analytical
+Farz namaz ile farz olmayan namaz arasında üçüncü rekât sonrası fark nedir?,"Farz namazda, Fatihadan sonra sûre veya ayet okumadan rükûa geçilirken, farz olmayan namazda Fatihadan sonra bir sûre veya birkaç ayet okunur, sonra rükûa geçilir.",Analytical
+Son oturuşta (ka'de-i ahîre) yapılan ibadetler nelerdir?,"Son oturuşta, Tahiyyat'tan sonra salavat ve dualar okunur, ardından selâm verilir. Salavat örnekleri metinde verilmiş olup, dualar için Kur'an'daki dua ayetleri veya meşhur dua hadislerinden okunabileceği belirtilmiştir.",Listing
+Bu ayetlerde hangi ortak tema öne çıkmaktadır?,"Bu ayetlerde, Allah'tan iyilik, güzellik, rahmet ve affetme dileme; cehennem ateşinden korunma ve namazın önemi gibi konular ortak bir temayı oluşturmaktadır.  Dua ve Allah'a sığınma teması da oldukça belirgindir.",Conceptual
+Hadislerden alınan dualarda hangi tehlikelerden korunma dileği vardır?,"Hadislerden alınan dualarda kabir azabı, Deccal'in fitnesi, hayat ve ölümün fitneleri ile borç ve günahtan korunma dileği vardır.",Factual
