@@ -1,0 +1,16 @@
+question,answer,question_type
+Tilavet secdesinin hemen yapılmasının mecburiyeti var mıdır?,"Hayır, Tilavet secdesinin hemen yapılmasının bir mecburiyeti yoktur. Ancak, secdenin anlam ve amacına uygun olan davranış, mümkünse secdenin hemen o anda yapılmasıdır.",Factual
+Şükür secdesi nasıl yapılır?,"Şükür secdesi, bir nimetin kazanılmasından veya bir felaket/musibetin atlatılmasından dolayı kıbleye dönerek tekbir alıp secdeye varmak, secdede iken Allah'a hamd ve şükür ettikten sonra yine tekbir alarak ayağa kalkmaktır.",Procedural
+İslâm inancına göre ölümün anlamı nedir?,"İslâm inancına göre ölüm, bir son değil, yeni bir hayatın başlangıcıdır. Bu dünyada ölüm, başka bir âlem için farklı bir doğum olarak kabul edilir.",Conceptual
+"Cenaze namazı ile ilgili olarak metinde geçen 'teçhiz', 'gasil', 'tekfin', 'teşyi' ve 'defin' kelimelerinin anlamları nelerdir?","Metinde geçen kelimelerin anlamları şöyledir:
+- Teçhiz: Ölünün yıkanması, kefenlenmesi ve defnedilmesi gibi hazırlıklar.
+- Gasil: Ölünün yıkanması.
+- Tekfin: Ölünün kefenlenmesi.
+- Teşyi: Ölünün tabuta konulup namaz kılınacağı yere ve daha sonra kabristana taşınması.
+- Defin: Ölünün kabre konulması.",Factual
+"Müslümanlar için ölen birinin yıkanması, kefenlenmesi, namaz kılınması ve defnedilmesi ne tür bir ibadettir?","Ölen bir Müslüman'ı yıkamak, kefenlemek, onun için namaz kılıp dua etmek ve bir kabre gömmek Müslümanlar için farz-ı kifayedir.",Factual
+Peygamberimizin ölülerimiz hakkında verdiği tavsiye nedir ve bu tavsiyenin amacı nedir?,"Peygamberimiz ""Ölülerinizin güzel işlerini yad edin, kötü taraflarını dile getirmeyin"" diyerek, ölmüşlerimizi hayırla anmamızı, iyi taraflarını ön plana çıkarmamızı tavsiye etmiştir. Bu tavsiyenin amacı, ölenleri olumlu yönleriyle hatırlamak ve kötü anıları bastırmaktır.",Conceptual
+Cenaze namazını kılan imamın niyeti nedir?,"İmam olan kişi, Allah Teâlâ'nın rızası için orada bulunan cenazenin namazını kılmaya ve o cenaze için dua etmeye niyet ederek namaza başlar.",Factual
+Cenaze namazının geçerli olması için imamda bulunması gereken şartlar nelerdir?,Cenaze namazını kıldıracak imamın akıl-baliğ olması şarttır. Diğer namazları bozan şeyler cenaze namazını da bozar.,Factual
+"Bu metinde, ölen bir kişi için okunabilecek farklı dua örnekleri nelerdir?","Metinde, ölen kişi için farklı dua örnekleri verilmiştir. Ölen kişi müslüman ve mükellef ise,  'minnâ fe ahyihi alelİslâm ve men teveffeytehu minnâ fe teveffehu aleliman' ve  'Allahümme in kâne muhsinen fezid fi ihsanihi ve in kâne müsîen fe tecâvez anhü...' şeklinde dualar okunabilir.  Eğer ölen kişi çocuk gibi mükellef değilse, 'Allahümmecalhü lenâ feratan, Allahümmecalhü lenâ ecren ve zuhran, Allahümmecalhü lenâ şefîan müşeffean' diye dua edilir. Ölen kişi kadın ise,  've hussa'dan sonraki zamirler kadın yerine kullanılacak şekilde değiştirilir. Ayrıca, 'Rabbenâ âtinâ' duası veya 'Allah'ım beni, bu ölüyü ve bütün müminleri bağışla' şeklinde dua edilebilir.",Listing
+"Metne göre, cenaze namazından sonra cenazeyi mezara kadar takip etmenin önemi nedir?","Metne göre, cenazeyi teşyi etmek (arkasından mezara kadar gitmek) sünnettir ve büyük sevap vardır.",Conceptual

@@ -1,0 +1,24 @@
+question,answer,question_type
+Ramazan orucunu bozan durumlar nelerdir ve bunların sonuçları nelerdir?,"Metinde belirtilen Ramazan orucunu bozan durumlar ve sonuçları şunlardır:
+
+* **Zorlamadan dolayı oruç bozulması:** Kaza ve kefaret gerektirir.
+* **Uyurken boğaza su dökülmesi:** Metinde açıkça belirtilmemiş, ancak muhtemelen kaza gerektirir.
+* **Unutarak yiyip içtikten sonra, orucun bozulduğunu zannederek bilerek yiyip içmek:**  Metinde açıkça belirtilmemiş, ancak muhtemelen kaza gerektirir.
+* **Dişlerin arasında kalan küçük bir şeyin yenmesi:** Orucu bozar.
+* **Kendi isteğiyle kusmak:** Orucu bozar.
+* **Ağız dolusu kusmuğun mideye geri çevrilmesi:** Orucu bozar.
+* **Sahur vaktinin geçtiğini bilmeden sahur yemek:** Orucu bozar.
+* **İftar vaktinin geldiğini bilmeden oruç bozmak:** Orucu bozar.
+* **Ramazan dışındaki bir orucu bozmak:** Kaza gerektirir.
+* **Cinsel ilişki:** Orucu bozar.
+* **Ramazan orucunu tutmaya niyet etmeden gündüz yiyip içmek:** Sadece kaza gerektirir, kefaret gerekmez.
+* **Başkasının tükürüğünü veya ağzından çıkan lokmayı yutmak:** Sadece kaza gerektirir. Ancak sevdiklerinin tükürüğünü yutmak durumunda kaza ve kefaret gerekir.",Factual
+Metinde bahsedilen kefaretin amacı nedir ve bu durumun günah boyutunu nasıl değerlendirebiliriz?,"Metne göre kefaret, tutulan orucu bozmanın cezasıdır; oruç tutmamanın cezası değildir. Ramazan orucunu tutmaya niyet etmeden gündüz yiyip içmek sadece kaza gerektirir, kefaret gerektirmez. Ancak bu durum yine de günahtır ve tevbe edilmesi gerekir.",Conceptual
+23. maddede bahsi geçen yaşlığın orucu bozmasının sebebi nedir?,"23. maddeye göre, ön veya arka yollara parmak veya başka bir vasıtayla su veya yağ gibi bir yaşlığın iletilmesi orucu bozar. Oruçlunun istinca yaparken dikkatli olması ve elindeki yaşlığı bu bölgelere değdirmemesi gerekir.",Causal
+Ağızdaki az miktarda kan yutmanın orucu bozup bozmadığına dair 25. madde ne diyor?,"25. maddeye göre, çoğunluğunu tükürük oluşturan ağızdaki az miktarda kanı yutmanın orucu bozmadığını belirtir.",Factual
+Uyku halinde ihtilâm olmanın oruca etkisi nedir?,Uyku halinde ihtilâm olmak orucu bozmaz.,Factual
+Unutarak yemek yiyen veya içen bir kişiye hatırlatma konusunda ne gibi hususlar göz önünde bulundurulmalıdır?,"Güçsüz, zayıf ve yaşlı bir kişi ise hatırlatmamak daha iyidir çünkü bu Allah'ın ona bir ikramıdır. Ancak güçlü ve kuvvetli biri ise hemen hatırlatılmalıdır.",Conceptual
+Ağızda çok fazla yiyecek olup da oruçluyken yutulması orucu bozar mı?,"Evet, bütün ağız içinde hissedilecek kadar çok yiyecek olup oruç hatırda iken yutulursa orucu bozar.",Factual
+Sahurdan sonra dişlerde kalan küçük bir parçanın yutulması orucu bozar mı? Boyutu ne kadar önemlidir?,Nohut tanesinden küçük bir şey yutulursa orucu bozmaz. Nohut tanesinden büyük olursa orucu bozar.,Factual
+"İmam-ı Azam'ın görüşü, İmam Ebu Yusuf ve Muhammed'in görüşlerinden nasıl farklılık göstermektedir?","İç kısma geçiş şüpheli durumlarda, İmam Ebu Yusuf ve Muhammed'e göre oruç bozulmazken, İmam-ı Azam'a göre oruç bozulur.  Farklılık, içe nüfuzun kesinlik kazanması durumunda ortaya çıkar; İmam-ı Azam'a göre de bu durumda oruç bozulmuş olur.",Analytical
+Deri altından yapılan bir iğnenin orucu bozması için hangi şartın gerçekleşmesi gerekir?,"Deri altından yapılan bir iğne, ilaç veya su gibi maddeler enjekte edilmedikçe orucu bozmaz.  Ancak içeriye ilaç veya su gibi maddeler enjekte edilir ve vücut içinde kararlaşıp yerleşirse oruç bozulur.",Factual
